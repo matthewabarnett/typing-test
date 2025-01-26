@@ -57,3 +57,12 @@ body, .quote-input {
 .quote-input :focus {
     border-color: black;
 }
+
+.correct {
+    color: #289a3f;
+}
+
+.incorrect {
+    color: red;
+    text-decoration: underline;
+}
